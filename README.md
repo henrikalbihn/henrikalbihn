@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @henrikalbihn
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Data Science projects
+- 👀 I’m interested in Data Science and Data Engineering
+- 🌱 I’m currently learning Airflow and Python.
+- 💞️ I’m looking to collaborate on Data Science/Engineering projects
 
 <!---
 henrikalbihn/henrikalbihn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
