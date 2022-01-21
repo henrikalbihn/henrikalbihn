@@ -1,7 +1,21 @@
-- 👋 Hi, I’m @henrikalbihn
-- 👀 I’m interested in Data Science and Data Engineering
-- 🌱 I’m currently learning Airflow and Python.
-- 💞️ I’m looking to collaborate on Data Science/Engineering projects
+Hi I'm Henrik.
+
+I'm a data analyst in Institutional Research at Westcliff University. 📈
+
+I'm also a graduate student in Data Science at CSUF. 🏫
+
+I'm comfortable using the following technologies:
+
+> Python 🐍
+
+> R
+
+> SQL
+
+> Microsoft Excel/Google Sheets
+
+> UNIX Shell (Bash/Zsh)
+
 
 <!---
 henrikalbihn/henrikalbihn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
