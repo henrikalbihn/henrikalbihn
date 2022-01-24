@@ -1,4 +1,4 @@
-#Hi I'm Henrik. 👋
+# Hi I'm Henrik. 👋
 
 I'm a data analyst in Institutional Research at Westcliff University. 📈
 
@@ -6,15 +6,17 @@ I'm also a graduate student in Data Science at CSUF. 🏫
 
 I'm comfortable using the following technologies:
 
-> **Python 🐍**: pandas, numpy, seaborn, matplotlib, selenium, beautifulsoup, requests, gspread, scikit-learn
+* **Python 🐍**: pandas, numpy, seaborn, matplotlib, selenium, beautifulsoup, requests, gspread, scikit-learn
 
-> **R**: tidyverse, dplyr, tidyr, readr, ggplot2, googledrive, googlesheets4, caret
+* **R**: tidyverse, dplyr, tidyr, readr, ggplot2, googledrive, googlesheets4, caret
 
-> **SQL**: MySQL, PostgreSQL, SQLite, Amazon RDS/S3
+* **SQL**: MySQL, PostgreSQL, SQLite, Amazon RDS/S3
 
-> **Microsoft Excel/Google Sheets**: pivot tables, VLOOKUP, REGEX, Python/R automation
+* **Microsoft Excel/Google Sheets**: pivot tables, VLOOKUP, REGEX, Python/R automation
 
-> **UNIX Shell (Bash/Zsh)**: cURL, wget, MySQL, git/gh
+* **Tableau Desktop/Public**: parameters, Python/R integration, overlapping viz
+
+* **UNIX Shell (Bash/Zsh)**: cURL, wget, MySQL, git/gh
 
 
 <!---
