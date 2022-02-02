@@ -16,7 +16,7 @@ I'm comfortable using the following technologies:
 
 * **Tableau Desktop/Public**: parameters, Python/R integration, overlapping viz
 
-* **UNIX Shell (Bash/Zsh)**: cURL, wget, MySQL, git/gh
+* **Unix Shell (Bash/Zsh)**: cURL, wget, MySQL, git/gh
 
 
 <!---
