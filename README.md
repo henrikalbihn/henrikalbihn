@@ -1,6 +1,6 @@
 # Hi I'm Henrik. 👋
 
-I'm a data analyst in Institutional Research at Westcliff University. 📈
+I'm a data analyst on the science team at True Fit. 📈
 
 I'm also a graduate student in Data Science at CSUF. 🏫
 
