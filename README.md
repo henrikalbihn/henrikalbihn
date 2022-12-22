@@ -1,10 +1,12 @@
-# Hi I'm Henrik. 👋
+
+Hi I'm Henrik. 👋
 
 I'm an MS in Data Science 🏫
-
 I'm a Data Analyst on the Science team @ True Fit Corp. 📈
 
-## Skills 🪄
+As a highly skilled data science professional with a strong background in analytics and machine learning, I am confident in my ability to drive business growth and deliver valuable insights through data-driven decision making. My extensive experience with a variety of cloud platforms, distributed compute technologies, and programming languages has enabled me to build and deploy scalable data pipelines, develop predictive models, and create engaging data visualizations. I am a team player with excellent communication skills, and I thrive in fast-paced, Agile environments. I am excited to bring my skills and expertise to a dynamic organization that is looking to leverage the power of data to drive innovation and growth.
+
+[Skills]
 - AB Testing
 - Agile Development
 - Analytics
@@ -39,9 +41,3 @@ I'm a Data Analyst on the Science team @ True Fit Corp. 📈
 - SQL (BigQuery, CloudSQL, MariaDB/MySQL, PostgreSQL)
 - Test-Driven Development (TDD)
 - Web Scraping
-
-
-<!---
-henrikalbihn/henrikalbihn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
