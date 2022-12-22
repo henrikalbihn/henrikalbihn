@@ -1,22 +1,44 @@
 # Hi I'm Henrik. 👋
 
-I'm a data analyst on the Science team @ True Fit. 📈
+I'm an MS in Data Science 🏫
 
-I'm also an MSIT graduate student in Data Science @ CSUF. 🏫
+I'm a Data Analyst on the Science team @ True Fit Corp. 📈
 
-I'm comfortable using the following technologies:
-
-* **Python 🐍**: pandas, numpy, pyspark, seaborn, matplotlib, selenium, beautifulsoup, requests, gspread, scikit-learn
-
-* **R**: tidyverse, dplyr, tidyr, readr, ggplot2, googledrive, googlesheets4, caret
-
-* **SQL**: MySQL, PostgreSQL, SQLite, SparkSQL, Amazon RDS/S3
-
-* **Microsoft Excel/Google Sheets**: pivot tables, VLOOKUP, REGEX, Python/R automation
-
-* **Tableau Desktop/Public**: parameters, Python/R integration, overlapping viz
-
-* **Unix Shell (Bash/Zsh)**: cURL, wget, MySQL, git/gh
+## Skills 🪄
+- AB Testing
+- Agile Development
+- Analytics
+- Atlassian (Jira)
+- AWS (Athena, EC2, RedShift, RDS, S3
+- Continious Integration/Continuous Delivery (CI/CD)
+- Cloud
+- Data Science
+- Databricks
+- Distributed Compute (Hive, Hadoop, Hive, MapReduce, Spark)
+- Debian/Ubuntu
+- Docker
+- FreeBSD
+- Forecasting
+- Firebase
+- GCP (BigQuery, CloudSQL, Dataproc, Firestore, Storage)
+- Git (GitHub, GitHub Actions, GitLab, GitLab CI/CD)
+- HTML/CSS
+- Infrastructure as Code
+- Jenkins
+- Jupyter
+- Kubernetes
+- Linux/Unix
+- Machine Learning (Classification, Clustering, Regression, Recommendation)
+- MongoDB
+- NoSQL
+- Python (pandas, numpy, scipy, statsmodels, scikit-learn, pyspark, matplotlib, seaborn, plotly, mlflow)
+- PySpark
+- R (tidyverse, dplyr, tidyr, readr, ggplot2, googledrive, googlesheets4, caret)
+- Serverless
+- Shell (Bash, Zsh)
+- SQL (BigQuery, CloudSQL, MariaDB/MySQL, PostgreSQL)
+- Test-Driven Development (TDD)
+- Web Scraping
 
 
 <!---
