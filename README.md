@@ -16,7 +16,7 @@
 - Cloud
 - Data Science
 - Databricks
-- Distributed Compute (Hive, Hadoop, Hive, MapReduce, Spark)
+- Distributed Compute (Hadoop, Hive, MapReduce, Spark)
 - Debian/Ubuntu
 - Docker
 - FreeBSD
