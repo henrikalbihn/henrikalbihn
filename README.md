@@ -3,7 +3,9 @@
 
 ### MS in Data Science & Data Analyst @ True Fit Corp. 📈
 
-> As a highly skilled data science professional with a strong background in analytics and machine learning, I am confident in my ability to drive business growth and deliver valuable insights through data-driven decision making. My extensive experience with a variety of cloud platforms, distributed compute technologies, and programming languages has enabled me to build and deploy scalable data pipelines, develop predictive models, and create engaging data visualizations. I am a team player with excellent communication skills, and I thrive in fast-paced, Agile environments. I am excited to bring my skills and expertise to a dynamic organization that is looking to leverage the power of data to drive innovation and growth.
+> I'm an experimental scientist with expertise in statistical testing, data analysis, visualization, machine learning, and communicating results to non-technical stakeholders. I have a deep understanding of data science methodologies, software engineering best practices, distributed cloud computing, and delivering clean, concise and robust code to production.
+
+I have a deep passion for AI research - I specialize in NLP, Deep Learning, Neural Networks, Transformers, Generative AI, Prompt Engineering, Cognitive Architectures, & Graph Theory.
 
 ## Skills
 ```yaml
@@ -11,7 +13,7 @@
 - Agile Development
 - Analytics
 - Atlassian (Jira)
-- AWS (Athena, EC2, RedShift, RDS, S3
+- AWS (EC2, ECS, Lambda, RDS, S3)
 - Continious Integration/Continuous Delivery (CI/CD)
 - Cloud
 - Data Science
@@ -23,6 +25,7 @@
 - Forecasting
 - Firebase
 - GCP (BigQuery, CloudSQL, Dataproc, Firestore, Storage)
+- Generative AI (GPT, OpenAI, HuggingFace, Transformers, PyTorch)
 - Git (GitHub, GitHub Actions, GitLab, GitLab CI/CD)
 - HTML/CSS
 - Infrastructure as Code
