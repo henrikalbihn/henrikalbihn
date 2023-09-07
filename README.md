@@ -27,6 +27,7 @@ I have a deep passion for AI research - I specialize in NLP, Deep Learning, Neur
 - GCP (BigQuery, CloudSQL, Dataproc, Firestore, Storage)
 - Generative AI (GPT, OpenAI, HuggingFace, Transformers, PyTorch)
 - Git (GitHub, GitHub Actions, GitLab, GitLab CI/CD)
+- Go/Golang
 - HTML/CSS
 - Infrastructure as Code
 - Jenkins
