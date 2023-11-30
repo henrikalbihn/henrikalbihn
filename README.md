@@ -1,11 +1,9 @@
 
 # Hi I'm Henrik. 👋
 
-### MS in Data Science & Data Analyst @ True Fit Corp. 📈
+### MS in Data Science & Machine Learning Scientist @ True Fit Corp. 📈
 
-> I'm an experimental scientist with expertise in statistical testing, data analysis, visualization, machine learning, and communicating results to non-technical stakeholders. I have a deep understanding of data science methodologies, software engineering best practices, distributed cloud computing, and delivering clean, concise and robust code to production.
-
-I have a deep passion for AI research - I specialize in NLP, Deep Learning, Neural Networks, Transformers, Generative AI, Prompt Engineering, Cognitive Architectures, & Graph Theory.
+> Experienced Machine Learning Scientist specializing in deep-learning and generative AI, proficient in online A/B testing, statistical analysis, and managing distributed systems. Deeply committed to AI research, with a concentration on large language models, prompt engineering, multi-modal semantic search, and knowledge graph applications. Established track record in leading innovation and elevating efficiency within data-intensive environments.
 
 ## Skills
 ```yaml
