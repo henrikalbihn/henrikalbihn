@@ -1,46 +1,20 @@
 
 # Hi I'm Henrik. 👋
 
-### MS in Data Science & Machine Learning Scientist @ True Fit Corp. 📈
+🔮 Machine Learning Scientist | 👨🏼‍🏫 Mentor | ✍🏻 Writer
 
-> Experienced Machine Learning Scientist specializing in deep-learning and generative AI, proficient in online A/B testing, statistical analysis, and managing distributed systems. Deeply committed to AI research, with a concentration on large language models, prompt engineering, multi-modal semantic search, and knowledge graph applications. Established track record in leading innovation and elevating efficiency within data-intensive environments.
+🛍️ At True Fit, I build state of the art AI systems that help millions of people buy what they love.
 
-## Skills
-```yaml
-- AB Testing
-- Agile Development
-- Analytics
-- Atlassian (Jira)
-- AWS (EC2, ECS, Lambda, RDS, S3)
-- Continious Integration/Continuous Delivery (CI/CD)
-- Cloud
-- Data Science
-- Databricks
-- Distributed Compute (Hadoop, Hive, MapReduce, Spark)
-- Debian/Ubuntu
-- Docker
-- FreeBSD
-- Forecasting
-- Firebase
-- GCP (BigQuery, CloudSQL, Dataproc, Firestore, Storage)
-- Generative AI (GPT, OpenAI, HuggingFace, Transformers, PyTorch)
-- Git (GitHub, GitHub Actions, GitLab, GitLab CI/CD)
-- Go/Golang
-- HTML/CSS
-- Infrastructure as Code
-- Jenkins
-- Jupyter
-- Kubernetes
-- Linux/Unix
-- Machine Learning (Classification, Clustering, Regression, Recommendation)
-- MongoDB
-- NoSQL
-- Python (pandas, numpy, scipy, statsmodels, scikit-learn, pyspark, matplotlib, seaborn, plotly, mlflow)
-- PySpark
-- R (tidyverse, dplyr, tidyr, readr, ggplot2, googledrive, googlesheets4, caret)
-- Serverless
-- Shell (Bash, Zsh)
-- SQL (BigQuery, CloudSQL, MariaDB/MySQL, PostgreSQL)
-- Test-Driven Development (TDD)
-- Web Scraping
-```
+🎓 MS in Data Science from Cal State Fullerton
+
+🤖 I've managed the complete MLOps lifecycle for many problem types - from large scale model training to distributed online AB tests & realtime production inference APIs.
+
+🏫 I offer mentorship and data science career planning on topmate.io
+
+✍🏻 I write about AI and technology on [Medium](https://medium.com/@henrikalbihn).
+
+🔬Research focuses: deep classifiers, NLP, transformers, vector search, multimodal
+
+📈 I have an established record in leading innovation, up-skilling teammates, and elevating efficiency within data-intensive environments.
+
+👨🏼‍🔬 I thrive in research labs and business contexts alike.
