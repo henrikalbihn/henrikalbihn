@@ -11,7 +11,7 @@
 
 ✍🏻 I write about AI and technology on Medium.
 
-🔬Research focuses: deep classifiers, NLP, transformers, vector search, multimodal
+🔬 Research focuses: deep classifiers, NLP, transformers, vector search, multimodal
 
 🛍️ At True Fit, I built state of the art AI systems that help millions of people buy what they love.
 
