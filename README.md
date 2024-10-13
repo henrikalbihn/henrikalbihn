@@ -1,4 +1,4 @@
-# Hi I'm Henrik. 👋
+f# Hi I'm Henrik. 👋
 
 ## AI Scientist & MLOps Engineer 🔮🛠️
 
@@ -59,7 +59,7 @@ Let's build! 🚀
 </p>
 
 <p align="center">
-  <img src="https://gh-readme-stats-ha.vercel.app/api?username=henrikalbihn&show_icons=true&hide_title=true&card_width=500px&theme=tokyonight&count_private=true&rank_icon=github&" alt="henrik-albihn" />
+  <img src="https://gh-readme-stats-ha.vercel.app/api?username=henrikalbihn&show_icons=true&hide_title=true&card_width=500px&theme=tokyonight&count_private=true&rank_icon=github&include_all_commits=true" alt="henrik-albihn" />
 </p>
 
 <h2>💻 Tech Stack</h2>
