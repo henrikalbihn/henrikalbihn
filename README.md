@@ -9,7 +9,7 @@ I'm passionate about building systems that can learn and reason. Currently in st
 - spatial reasoning
 - embedded small language models
 
-Let's push the boundaries of machine intelligence together! 🚀
+Let's build! 🚀
 
 ## Publications 📝
 
