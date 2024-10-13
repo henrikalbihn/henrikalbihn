@@ -1,6 +1,6 @@
 # Hi I'm Henrik. 👋
 
-## AI Scientist/MLOps Engineer 🔮🛠️
+🔮 AI Scientist | 🛠️ MLOps Engineer 
 
 I'm passionate about building systems that can learn and reason. Currently in stealth mode 🤫 researching:
 
