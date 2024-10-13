@@ -4,7 +4,7 @@
 
 I'm passionate about building systems that can learn and reason. Currently in stealth mode 🤫 researching:
 
-- multimodal AI
+- multimodal/vision language models
 - multi-agent systems
 - spatial reasoning
 - embedded small language models
