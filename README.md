@@ -36,6 +36,15 @@ Let's build! 🚀
 
 ## Projects 💻
 
+| Title | Link |
+|---------------|------|
+| Theta Labs | [Check it out](https://theta.software) |
+| Machine Learning Academy | [Check it out](https://machine-learning.academy) |
+| SQLGenie | [Check it out](https://sqlgenie.dev) |
+| QuickerChat | [Check it out](https://quicker.chat) |
+
+
+
 👇🏼 Named Entity Recognition microservice from [this article](https://ai.plainenglish.io/detect-anything-in-text-85711c00145c)
 
 [![GLiNER Repo Card](https://gh-readme-stats-ha.vercel.app/api/pin/?username=henrikalbihn&repo=gliner-as-a-service&theme=tokyonight&show_owner=true)](https://github.com/henrikalbihn/gliner-as-a-service)
