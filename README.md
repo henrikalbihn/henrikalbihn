@@ -1,4 +1,4 @@
-# Hi I'm Henrik. 👋
+# [Hey, I'm Henrik](https://henrik.sh). 👋
 
 🔮 AI Scientist | 🛠️ MLOps Engineer 
 
