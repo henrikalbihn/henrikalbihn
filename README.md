@@ -1,13 +1,9 @@
 # [Hey, I'm Henrik](https://henrik.sh). 👋
 
-🔮 AI Scientist | 🛠️ MLOps Engineer 
+## Founder • AI Scientist • MLOps Engineer
 
-I'm passionate about building systems that can learn and reason. Currently in stealth mode 🤫 researching:
-
-- multimodal/vision language models
-- multi-agent systems
-- spatial reasoning
-- embedded small language models
+I'm passionate about building systems that can learn and reason.
+> Currently, AI Engineer @ [Strange Loop Labs](https://strangelooplabs.ai) automating business processes for some of the world's largest companies.
 
 Let's build! 🚀
 
@@ -38,12 +34,11 @@ Let's build! 🚀
 
 | Title | Link |
 |---------------|------|
+| Levitate | [Check it out](https://levitate.run) |
 | Theta Labs | [Check it out](https://theta.software) |
 | Machine Learning Academy | [Check it out](https://machine-learning.academy) |
 | SQLGenie | [Check it out](https://sqlgenie.dev) |
 | QuickerChat | [Check it out](https://quicker.chat) |
-
-
 
 👇🏼 Named Entity Recognition microservice from [this article](https://ai.plainenglish.io/detect-anything-in-text-85711c00145c)
 
